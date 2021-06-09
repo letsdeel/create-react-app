@@ -1,6 +1,6 @@
 {
-  "name": "@karabur/react-scripts",
-  "version": "4.0.4-alpha.9",
+  "name": "@letsdeel/react-scripts",
+  "version": "4.0.3-alpha.9",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
